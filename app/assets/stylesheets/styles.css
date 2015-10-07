@@ -238,7 +238,7 @@ h6 {
 	position: absolute;
 	margin: auto;
 	z-index: 1;
-	content: "";
+	content: '';
 	width: 50%;
 	height: 2px;
 	background: #F5F5F5;
@@ -249,7 +249,7 @@ h6 {
 	position: absolute;
 	margin: auto;
 	z-index: 1;
-	content: "";
+	content: '';
 	width: 50%;
 	height: 2px;
 	background: #404040;
@@ -260,7 +260,7 @@ h6 {
 	position: absolute;
 	margin: auto;
 	z-index: 1;
-	content: "";
+	content: '';
 	width: 75%;
 	height: 2px;
 	background: #e96656;
@@ -271,7 +271,7 @@ h6 {
 	position: absolute;
 	margin: auto;
 	z-index: 1;
-	content: "";
+	content: '';
 	width: 75%;
 	height: 2px;
 	background: #34d293;
@@ -282,7 +282,7 @@ h6 {
 	position: absolute;
 	margin: auto;
 	z-index: 1;
-	content: "";
+	content: '';
 	width: 75%;
 	height: 2px;
 	background: #3ab0e2;
@@ -293,7 +293,7 @@ h6 {
 	position: absolute;
 	margin: auto;
 	z-index: 1;
-	content: "";
+	content: '';
 	width: 75%;
 	height: 2px;
 	background: #f7d861;
@@ -454,7 +454,7 @@ input:focus {
 	position: absolute;
 	margin: auto;
 	z-index: 1;
-	content: "";
+	content: '';
 	width: 75%;
 	height: 2px;
 	background: #e96656;
@@ -857,7 +857,7 @@ width: -webkit-calc(100% / 2);
 }
 .client-list ul li img {
 	max-width: 130px;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	-ms-filter: 'progid:DXImageTransform.Microsoft.Alpha(Opacity=80)';
 	filter: alpha(opacity=80);
 	opacity: 0.8;
 	-webkit-transition: all ease .55s;
@@ -933,7 +933,7 @@ width: -webkit-calc(100% / 2);
 	height: 190px;
 	-webkit-transition: all 1500ms;
 	        transition: all 1500ms;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	-ms-filter: 'progid:DXImageTransform.Microsoft.Alpha(Opacity=0)';
 	filter: alpha(opacity=0);
 	opacity: 0;
 }
@@ -1209,7 +1209,7 @@ width: -webkit-calc(100% / 2);
 }
 .item-add-content {
 	padding: 0 15px 15px 15px;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	-ms-filter: 'progid:DXImageTransform.Microsoft.Alpha(Opacity=0)';
 	filter: alpha(opacity=0);
 	opacity: 0;
 	-webkit-transition: all 0.3s ease-in-out;
