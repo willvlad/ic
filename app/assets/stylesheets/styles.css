@@ -238,7 +238,7 @@ h6 {
 	position: absolute;
 	margin: auto;
 	z-index: 1;
-	content: "";
+	content: "1";
 	width: 50%;
 	height: 2px;
 	background: #F5F5F5;
@@ -249,7 +249,7 @@ h6 {
 	position: absolute;
 	margin: auto;
 	z-index: 1;
-	content: "";
+	content: "2";
 	width: 50%;
 	height: 2px;
 	background: #404040;
@@ -260,7 +260,7 @@ h6 {
 	position: absolute;
 	margin: auto;
 	z-index: 1;
-	content: "";
+	content: "3";
 	width: 75%;
 	height: 2px;
 	background: #e96656;
@@ -271,7 +271,7 @@ h6 {
 	position: absolute;
 	margin: auto;
 	z-index: 1;
-	content: "";
+	content: "4";
 	width: 75%;
 	height: 2px;
 	background: #34d293;
@@ -282,7 +282,7 @@ h6 {
 	position: absolute;
 	margin: auto;
 	z-index: 1;
-	content: "";
+	content: "5";
 	width: 75%;
 	height: 2px;
 	background: #3ab0e2;
@@ -293,7 +293,7 @@ h6 {
 	position: absolute;
 	margin: auto;
 	z-index: 1;
-	content: "";
+	content: "6";
 	width: 75%;
 	height: 2px;
 	background: #f7d861;
