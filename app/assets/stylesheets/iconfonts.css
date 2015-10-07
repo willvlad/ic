@@ -250,7 +250,7 @@ src: url('fonts/712-icon-fonts.svg#712-icon-fonts') format('svg');
   content: '&';
 }
 .icon-macintosh:before {
-  content: ''';
+  content: '\"';
 }
 .icon-magic-magic-wand-streamline:before {
   content: '(';
